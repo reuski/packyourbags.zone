@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Container maxW="lg" py={12}>
+    <Container maxW="lg" py={[6, 12]}>
       <Header />
       <PackingList />
       <Footer />
