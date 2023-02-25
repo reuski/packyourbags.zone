@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Documents",
+    "items": [
+      {
+        "label": "Passport, visa",
+        "value": "passport",
+        "checked": false
+      },
+      {
+        "label": "Tickets for airline, boat, train, bus",
+        "value": "tickets",
+        "checked": false
+      },
+      {
+        "label": "Digital copies of passport",
+        "value": "digital-copies",
+        "checked": false
+      },
+      {
+        "label": "Drivers license",
+        "value": "drivers-license",
+        "checked": false
+      },
+      {
+        "label": "Travel insurance",
+        "value": "insurance",
+        "checked": false
+      },
+      {
+        "label": "List of medications, prescription",
+        "value": "prescriptions",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Finances",
+    "items": [
+      {
+        "label": "Foreign currency",
+        "value": "foregin-currency",
+        "checked": false
+      },
+      {
+        "label": "Emergency money",
+        "value": "emergency-money",
+        "checked": false
+      },
+      {
+        "label": "Credit card, debit card",
+        "value": "credit-card",
+        "checked": false
+      },
+      {
+        "label": "Money belt",
+        "value": "money-belt",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Clothes",
+    "items": [
+      {
+        "label": "Underwear",
+        "value": "underwear",
+        "checked": false
+      },
+      {
+        "label": "Socks",
+        "value": "socks",
+        "checked": false
+      },
+      {
+        "label": "Shirts",
+        "value": "shirts",
+        "checked": false
+      },
+      {
+        "label": "Jeans",
+        "value": "jeans",
+        "checked": false
+      },
+      {
+        "label": "Shorts",
+        "value": "shorts",
+        "checked": false
+      },
+      {
+        "label": "Shoes",
+        "value": "shoes",
+        "checked": false
+      },
+      {
+        "label": "Flip-flops",
+        "value": "flip-flops",
+        "checked": false
+      },
+      {
+        "label": "Jacket",
+        "value": "jacket",
+        "checked": false
+      },
+      {
+        "label": "Belt",
+        "value": "belt",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Medical",
+    "items": [
+      {
+        "label": "Pain relievers",
+        "value": "pain-relievers",
+        "checked": false
+      },
+      {
+        "label": "Stomach relief",
+        "value": "stomach-relief",
+        "checked": false
+      },
+      {
+        "label": "First aid kit",
+        "value": "first-aid",
+        "checked": false
+      },
+      {
+        "label": "Insect repellent",
+        "value": "insect-repellent",
+        "checked": false
+      },
+      {
+        "label": "Vaccines",
+        "value": "vaccines",
+        "checked": false
+      },
+      {
+        "label": "Health and dental checkup",
+        "value": "health-checkup",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Travel Aids",
+    "items": [
+      {
+        "label": "Backpack",
+        "value": "backpack",
+        "checked": false
+      },
+      {
+        "label": "Daypack",
+        "value": "daypack",
+        "checked": false
+      },
+      {
+        "label": "Itinerary",
+        "value": "itinerary",
+        "checked": false
+      },
+      {
+        "label": "Travel guide",
+        "value": "travel-guide",
+        "checked": false
+      },
+      {
+        "label": "Travel pillow, sleeping mask, earplugs",
+        "value": "travel-pillow",
+        "checked": false
+      },
+      {
+        "label": "Travel locks",
+        "value": "travel-locks",
+        "checked": false
+      },
+      {
+        "label": "Luggage tags",
+        "value": "luggage-tags",
+        "checked": false
+      },
+      {
+        "label": "Pen and paper",
+        "value": "pen-paper",
+        "checked": false
+      },
+      {
+        "label": "Rope, clothesline",
+        "value": "rope",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Appliances",
+    "items": [
+      {
+        "label": "Cellphone, charger",
+        "value": "cellphone",
+        "checked": false
+      },
+      {
+        "label": "Camera, memory card, charger",
+        "value": "camera",
+        "checked": false
+      },
+      {
+        "label": "Laptop, tablet and charger",
+        "value": "laptop",
+        "checked": false
+      },
+      {
+        "label": "Travel adapter and converter",
+        "value": "travel-adapter",
+        "checked": false
+      },
+      {
+        "label": "Flashlight",
+        "value": "flashlight",
+        "checked": false
+      },
+      {
+        "label": "Headphones",
+        "value": "headphones",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Toiletries",
+    "items": [
+      {
+        "label": "Toothbrush, paste, dental floss",
+        "value": "toothbrush",
+        "checked": false
+      },
+      {
+        "label": "Deodorant",
+        "value": "deodorant",
+        "checked": false
+      },
+      {
+        "label": "Tweezers",
+        "value": "tweezers",
+        "checked": false
+      },
+      {
+        "label": "Soap, shampoo, conditioner",
+        "value": "soap",
+        "checked": false
+      },
+      {
+        "label": "Sunscreen",
+        "value": "sunscreen",
+        "checked": false
+      },
+      {
+        "label": "Travel towel",
+        "value": "travel-towel",
+        "checked": false
+      },
+      {
+        "label": "Nailcare",
+        "value": "nailcare",
+        "checked": false
+      },
+      {
+        "label": "Skincare",
+        "value": "skincare",
+        "checked": false
+      },
+      {
+        "label": "Tissues",
+        "value": "tissues",
+        "checked": false
+      },
+      {
+        "label": "Glasses, contact lenses",
+        "value": "glasses",
+        "checked": false
+      },
+      {
+        "label": "Shaving supplies",
+        "value": "shaving-supplies",
+        "checked": false
+      },
+      {
+        "label": "Comb, hair products",
+        "value": "comb",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "name": "Miscellaneous",
+    "items": [
+      {
+        "label": "Swimsuit",
+        "value": "swimsuit",
+        "checked": false
+      },
+      {
+        "label": "Sunglasses",
+        "value": "sunglasses",
+        "checked": false
+      },
+      {
+        "label": "Umbrella",
+        "value": "umbrella",
+        "checked": false
+      },
+      {
+        "label": "Books, magazines",
+        "value": "books",
+        "checked": false
+      }
+    ]
+  }
+]
