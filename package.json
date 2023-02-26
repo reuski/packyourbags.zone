@@ -1,6 +1,5 @@
 {
   "name": "packyourbags.zone",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -8,19 +7,30 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reuski/packyourbags.zone.git"
+  },
+  "author": {
+    "name": "Sami Reunanen",
+    "email": "hello@samireunanen.com",
+    "url": "https://samireunanen.com/"
+  },
+  "license": "MIT",
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@fontsource/nunito": "^4.5.12",
-    "@types/react": "^18.0.27",
-    "@types/react-dom": "^18.0.10",
-    "@vitejs/plugin-react-swc": "^3.0.0",
-    "framer-motion": "^9.0.7",
+    "@netlify/plugin-lighthouse": "^4.0.7",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react-swc": "^3.2.0",
+    "framer-motion": "^9.1.7",
     "idb-keyval": "^6.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "typescript": "^4.9.3",
-    "vite": "^4.1.0"
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
   }
 }
