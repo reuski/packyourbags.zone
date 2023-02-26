@@ -81,13 +81,23 @@
         "checked": false
       },
       {
-        "label": "Jeans",
-        "value": "jeans",
+        "label": "Pants",
+        "value": "pants",
         "checked": false
       },
       {
         "label": "Shorts",
         "value": "shorts",
+        "checked": false
+      },
+      {
+        "label": "Belt",
+        "value": "belt",
+        "checked": false
+      },
+      {
+        "label": "Jacket",
+        "value": "jacket",
         "checked": false
       },
       {
@@ -98,16 +108,6 @@
       {
         "label": "Flip-flops",
         "value": "flip-flops",
-        "checked": false
-      },
-      {
-        "label": "Jacket",
-        "value": "jacket",
-        "checked": false
-      },
-      {
-        "label": "Belt",
-        "value": "belt",
         "checked": false
       }
     ]
@@ -142,95 +142,8 @@
         "checked": false
       },
       {
-        "label": "Health and dental checkup",
+        "label": "Health, dental checkup",
         "value": "health-checkup",
-        "checked": false
-      }
-    ]
-  },
-  {
-    "id": "travelAids",
-    "name": "Travel Aids",
-    "items": [
-      {
-        "label": "Backpack",
-        "value": "backpack",
-        "checked": false
-      },
-      {
-        "label": "Daypack",
-        "value": "daypack",
-        "checked": false
-      },
-      {
-        "label": "Itinerary",
-        "value": "itinerary",
-        "checked": false
-      },
-      {
-        "label": "Travel guide",
-        "value": "travel-guide",
-        "checked": false
-      },
-      {
-        "label": "Travel pillow, sleeping mask, earplugs",
-        "value": "travel-pillow",
-        "checked": false
-      },
-      {
-        "label": "Travel locks",
-        "value": "travel-locks",
-        "checked": false
-      },
-      {
-        "label": "Luggage tags",
-        "value": "luggage-tags",
-        "checked": false
-      },
-      {
-        "label": "Pen and paper",
-        "value": "pen-paper",
-        "checked": false
-      },
-      {
-        "label": "Rope, clothesline",
-        "value": "rope",
-        "checked": false
-      }
-    ]
-  },
-  {
-    "id": "appliances",
-    "name": "Appliances",
-    "items": [
-      {
-        "label": "Cellphone, charger",
-        "value": "cellphone",
-        "checked": false
-      },
-      {
-        "label": "Camera, memory card, charger",
-        "value": "camera",
-        "checked": false
-      },
-      {
-        "label": "Laptop, tablet and charger",
-        "value": "laptop",
-        "checked": false
-      },
-      {
-        "label": "Travel adapter and converter",
-        "value": "travel-adapter",
-        "checked": false
-      },
-      {
-        "label": "Flashlight",
-        "value": "flashlight",
-        "checked": false
-      },
-      {
-        "label": "Headphones",
-        "value": "headphones",
         "checked": false
       }
     ]
@@ -275,13 +188,100 @@
         "checked": false
       },
       {
-        "label": "Skincare",
-        "value": "skincare",
+        "label": "Moisturizer",
+        "value": "moisturizer",
         "checked": false
       },
       {
         "label": "Tissues",
         "value": "tissues",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "appliances",
+    "name": "Appliances",
+    "items": [
+      {
+        "label": "Cellphone, charger",
+        "value": "cellphone",
+        "checked": false
+      },
+      {
+        "label": "Camera, memory card, charger",
+        "value": "camera",
+        "checked": false
+      },
+      {
+        "label": "Laptop, tablet and charger",
+        "value": "laptop",
+        "checked": false
+      },
+      {
+        "label": "Travel adapter and converter",
+        "value": "travel-adapter",
+        "checked": false
+      },
+      {
+        "label": "Flashlight",
+        "value": "flashlight",
+        "checked": false
+      },
+      {
+        "label": "Headphones",
+        "value": "headphones",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "items": [
+      {
+        "label": "Backpack",
+        "value": "backpack",
+        "checked": false
+      },
+      {
+        "label": "Daypack",
+        "value": "daypack",
+        "checked": false
+      },
+      {
+        "label": "Itinerary",
+        "value": "itinerary",
+        "checked": false
+      },
+      {
+        "label": "Travel guide",
+        "value": "travel-guide",
+        "checked": false
+      },
+      {
+        "label": "Travel pillow, sleeping mask, earplugs",
+        "value": "travel-pillow",
+        "checked": false
+      },
+      {
+        "label": "Travel locks",
+        "value": "travel-locks",
+        "checked": false
+      },
+      {
+        "label": "Luggage tags",
+        "value": "luggage-tags",
+        "checked": false
+      },
+      {
+        "label": "Pen and paper",
+        "value": "pen-paper",
+        "checked": false
+      },
+      {
+        "label": "Clothesline",
+        "value": "rope",
         "checked": false
       }
     ]
@@ -301,7 +301,7 @@
         "checked": false
       },
       {
-        "label": "Umbrella",
+        "label": "Travel-sized umbrella",
         "value": "umbrella",
         "checked": false
       },
